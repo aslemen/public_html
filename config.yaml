@@ -1,0 +1,44 @@
+# Site Information
+baseURL: https://www.hayashi-lin.net/
+theme: handwriting
+publishDir: docs
+
+# Compile-Time Setttings
+#enableGitInfo: True
+
+# Languages
+languageCode: en-us
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: True
+hasCJKLanguage: True
+
+languages:
+  en:
+    languageName: English
+    title: Noritsugu Hayashi
+    weight: 1
+    params:
+      DateFormat: Jan 02, 2006
+      AboutMeMD: &aboutme |
+        I am a PhD student in 
+        [Department of Language and Information Science, Graduate School of Arts and Science, the University of Tokyo, Japan](http://gamp.c.u-tokyo.ac.jp/), 
+        studying formal perspectives of syntax and semantics of natural languages.
+        
+        Please see my CV to find my works!
+  ja:
+    languageName: 日本語
+    title: 林 則序
+    weight: 2
+    params:
+      DateFormat: 2006/01/02
+      AboutMeMD: *aboutme
+# Parameters
+params:
+  # SNS Links
+  email: hayashi(at)phiz.c.u-tokyo.ac.jp
+  github: https://github.com/aslemen/
+  bitbucket: https://bitbucket.org/aslemen/
+  facebook: https://www.facebook.com/tn.hayashi/
+  instagram: https://www.instagram.com/tn.hayashi/
+
+  copyrightHTML: "&copy; 2016&ndash;2019 Noritsugu Hayashi."

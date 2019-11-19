@@ -1,0 +1,3 @@
+[submodule "themes/handwriting"]
+	path = themes/handwriting
+	url = https://github.com/aslemen/handwriting-hugo-theme

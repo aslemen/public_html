@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>林 則序</title>
+    <link>https://www.hayashi-lin.net/ja/</link>
+    <description>Recent content on 林 則序</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Oct 2018 00:13:54 +0900</lastBuildDate>
+    
+	<atom:link href="https://www.hayashi-lin.net/ja/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CV</title>
+      <link>https://www.hayashi-lin.net/ja/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hayashi-lin.net/ja/cv/</guid>
+      <description>個人情報 氏名 林 則序（のりつぐ） 国籍 日本 生年月日 1994/1/12 性別 男 ORC ID 0000-0001-5829-9832 ここを参照 職歴 学歴 研究活動 論文 口頭発表 学位論文</description>
+    </item>
+    
+    <item>
+      <title>Heim &amp; Kratzer (1998) のちょっとした実装</title>
+      <link>https://www.hayashi-lin.net/ja/blog/20181003_hasksem/</link>
+      <pubDate>Wed, 03 Oct 2018 00:13:54 +0900</pubDate>
+      
+      <guid>https://www.hayashi-lin.net/ja/blog/20181003_hasksem/</guid>
+      <description>Heim &amp;amp; Kratzer (1998)流の意味論の一部を，Haskell上で実装してみた． 1項述語と，それ上の一般化量化子が扱える． 使い方 GHCiで以下のソース</description>
+    </item>
+    
+    <item>
+      <title>サイト更新</title>
+      <link>https://www.hayashi-lin.net/ja/blog/20180407_renewal/</link>
+      <pubDate>Sat, 07 Apr 2018 13:16:29 +0900</pubDate>
+      
+      <guid>https://www.hayashi-lin.net/ja/blog/20180407_renewal/</guid>
+      <description>サイトを更新しました． 以前はWordpressを使用しましたが， 今回はHugoと， 自前の文献管理プログラムmorepoを使用しております． サ</description>
+    </item>
+    
+  </channel>
+</rss>

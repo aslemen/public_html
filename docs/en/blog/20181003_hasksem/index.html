@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="Content-Type" content="text/html" />
+        
+        <link rel="stylesheet" href="https://www.hayashi-lin.net/style.min.f068124044beef9b11c2b34927a360a131473d9d43589ba1ca9d17272ac7e3a6.css" />
+        <title>An implementation of a fragment of Heim &amp; Kratzer (1998)&#39;s NL semantics &ndash; Noritsugu Hayashi</title>
+    </head>
+    <body>
+        <header>
+            <h1>
+                <span class="underlined-title">
+                    <a href="https://www.hayashi-lin.net/en/">
+                        Noritsugu Hayashi
+                    </a>
+                </span>
+            </h1>
+            <nav>
+                <ul>
+                    
+                    
+                        <li>
+                            <a href="/en/cv/">
+                                CV
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="/en/blog/">
+                                Blog
+                            </a>
+                        </li>
+                    
+                </ul>
+                <ul>
+                    
+                    
+                        <li>
+                            <a href="/ja/blog/20181003_hasksem/">
+                                日本語
+                            </a>
+                        </li>
+                    
+                </ul>
+            </nav>
+        </header>
+        
+       
+    <section id="main">
+        <h1>An implementation of a fragment of Heim &amp; Kratzer (1998)&#39;s NL semantics</h1>
+        <article class="timeinfo">
+            
+                <p>
+                    <time date="2018-10-03 00:13:54 &#43;0900 JST">
+                        Publish Date:
+                        Oct 03, 2018
+                    </time>
+                </p>
+            
+            
+            
+                <p>
+                    <time date="2018-10-03 00:13:54 &#43;0900 JST">
+                        Last Modified:
+                        Oct 03, 2018
+                    </time>
+                </p>
+            
+        </article>
+
+        <article class="content">
+            
+
+<p>I made a little attempt to give an implementation of some features of
+Heim &amp; Kratzer (1998) using Haskell,
+which covers
+the semantic calculation of one-place predicates applied to entities and
+generalized quantifiers applied to (pairs of) one-place predicates.</p>
+
+<h2 id="usage">Usage</h2>
+
+<p>Launch GHCi, load the source code below, and make your queries.</p>
+
+<p>Examples:</p>
+
+<pre><code class="language-Haskell">Prelude&gt; :l GQ.hs
+Prelude&gt; sleep Mary
+False
+Prelude&gt; a student sleep
+True
+</code></pre>
+
+<h2 id="source-code">Source code</h2>
+
+<p>Shown below.</p>
+
+<ul>
+<li>The object language is a fragment of clumsy English
+(in cluttered word orders),
+sentences of which are actually nothing but Haskell expressions.
+
+<ul>
+<li>The (syntactic) categories of those expressions
+are not overtly represented
+since they are totally determined by the (semantic) types
+of those interpretations.
+The &ldquo;types&rdquo; such as <code>Entity</code>，<code>Truth</code> belong to semantics.</li>
+</ul></li>
+<li>The meta-language is, of course, Haskell.
+
+<ul>
+<li>Based on <em>the functional talk</em>.</li>
+<li>A certain trick is needed to enumerate the type constructors of
+<code>Entity</code>. The <code>Data.Data</code> module enables it.</li>
+</ul></li>
+<li>The interpreter of the meta-language is GHCi.</li>
+</ul>
+
+<script type="application/javascript" src="https://gist.github.com/aslemen/3d179c13b24ab6e827101de4194c5755.js"></script>
+
+
+<hr />
+
+<ul>
+<li>Oct 3 2018 modified</li>
+<li>Oct 3 2018 translated to English</li>
+</ul>
+
+        </article>
+    </section>
+
+        <footer>
+            <nav>
+                <ul>
+                    
+                        <li>
+                            <a href="mailto:hayashi%28at%29phiz.c.u-tokyo.ac.jp"><i class="fas fa-envelope fa-2x"></i></a>
+                        </li>
+                    
+                    
+                        <li>
+                            <a href="https://github.com/aslemen/"><i class="fab fa-github fa-2x"></i></a>
+                        </li>   
+                    
+                    
+                        <li>
+                            <a href="https://bitbucket.org/aslemen/"><i class="fab fa-bitbucket fa-2x"></i></a>
+                        </li>   
+                    
+                    
+                    
+                        <li>
+                            <a href="https://www.facebook.com/tn.hayashi/"><i class="fab fa-facebook fa-2x"></i></a>
+                        </li>   
+                    
+                    
+                        <li>
+                            <a href="https://www.instagram.com/tn.hayashi/"><i class="fab fa-instagram fa-2x"></i></a>
+                        </li>   
+                    
+                    <li>
+                        <a href="/en/index.xml" target="_blank"><i class="fas fa-rss fa-2x"></i></a>   
+                    </li>   
+                </ul>
+            </nav>
+            <article id="references">
+                <p>
+                    
+                        <small>&copy; 2016&ndash;2019 Noritsugu Hayashi.</small>
+                    
+                    <small>
+                        Used Theme: Original (influenced by <a href="https://github.com/yursan9/manis-hugo-theme">Manis</a>);
+                        Used Fonts:
+                            <a href="https://fonts.google.com/specimen/Nothing+You+Could+Do">Nothing You Could Do</a>,
+                            <a href="https://fonts.google.com/specimen/Montserrat">Montserrat</a>,
+                            <a href="http://calligra-tei.oops.jp/download.html">Armed Lemon</a>,
+                            <a href="https://fonts.google.com/specimen/Noto+Sans+JP">Noto Sans JP</a>.
+                    </small>
+                </p>
+            </article>
+
+        </footer>
+    </body>
+</html>
