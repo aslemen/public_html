@@ -4,7 +4,7 @@
         <meta charset="UTF-8" />
         <meta http-equiv="Content-Type" content="text/html" />
         
-        <link rel="stylesheet" href="https://www.hayashi-lin.net/style.min.f068124044beef9b11c2b34927a360a131473d9d43589ba1ca9d17272ac7e3a6.css" />
+        <link rel="stylesheet" href="https://www.hayashi-lin.net/style.min.9796fa46228996d78ed4352b9faae18de207f54f2af34e2478fe68e5cf0e08cc.css" />
         <title>Heim &amp; Kratzer (1998) のちょっとした実装 &ndash; 林 則序</title>
     </head>
     <body>
@@ -52,7 +52,7 @@
         <article class="timeinfo">
             
                 <p>
-                    <time date="2018-10-03 00:13:54 &#43;0900 JST">
+                    <time date="2018-10-03 00:13:54 &#43;0900 &#43;0900">
                         Publish Date:
                         2018/10/03
                     </time>
@@ -61,7 +61,7 @@
             
             
                 <p>
-                    <time date="2018-10-03 00:13:54 &#43;0900 JST">
+                    <time date="2018-10-03 00:13:54 &#43;0900 &#43;0900">
                         Last Modified:
                         2018/10/03
                     </time>
@@ -70,48 +70,36 @@
         </article>
 
         <article class="content">
-            
-
-<p>Heim &amp; Kratzer (1998)流の意味論の一部を，Haskell上で実装してみた．
+            <p>Heim &amp; Kratzer (1998)流の意味論の一部を，Haskell上で実装してみた．
 1項述語と，それ上の一般化量化子が扱える．</p>
-
 <h2 id="使い方">使い方</h2>
-
 <p>GHCiで以下のソースファイルを読み込み，それでクエリをする．例：</p>
-
-<pre><code class="language-Haskell">Prelude&gt; :l GQ.hs
-Prelude&gt; sleep Mary
-False
-Prelude&gt; a student sleep
-True
-</code></pre>
-
-<h2 id="ソースコード">ソースコード</h2>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-Haskell" data-lang="Haskell"><span style="color:#66d9ef">Prelude</span><span style="color:#f92672">&gt;</span> <span style="color:#66d9ef">:</span>l <span style="color:#66d9ef">GQ</span><span style="color:#f92672">.</span>hs
+<span style="color:#66d9ef">Prelude</span><span style="color:#f92672">&gt;</span> sleep <span style="color:#66d9ef">Mary</span>
+<span style="color:#66d9ef">False</span>
+<span style="color:#66d9ef">Prelude</span><span style="color:#f92672">&gt;</span> a student sleep
+<span style="color:#66d9ef">True</span>
+</code></pre></div><h2 id="ソースコード">ソースコード</h2>
 <p>コードは以下のような感じ．</p>
-
 <ul>
 <li>対象言語は（語順がめちゃくちゃな）英語もどきで，実際はHaskell式である．
-
 <ul>
 <li>対象言語の型は，その解釈上のタイプに沿って決定されるので，
 何も明示されない．<code>Entity</code>，<code>Truth</code>などの「型」らしきものは，解釈上のタイプのことである．</li>
-</ul></li>
+</ul>
+</li>
 <li>メタ言語はHaskell．
-
 <ul>
 <li>Functional Talkが基本である．</li>
 <li><code>Entity</code>上の型コンストラクタ（i.e. 個体）を列挙する仕掛けが必要で，
 <code>Data.Data</code>がそれを提供する．</li>
-</ul></li>
+</ul>
+</li>
 <li>メタ言語の解釈者はGHCi．</li>
 </ul>
-
 <script type="application/javascript" src="https://gist.github.com/aslemen/3d179c13b24ab6e827101de4194c5755.js"></script>
 
-
-<hr />
-
+<hr>
 <ul>
 <li>2018/10/03 一部修正</li>
 <li>2018/10/03 英訳</li>

@@ -4,7 +4,7 @@
         <meta charset="UTF-8" />
         <meta http-equiv="Content-Type" content="text/html" />
         
-        <link rel="stylesheet" href="https://www.hayashi-lin.net/style.min.f068124044beef9b11c2b34927a360a131473d9d43589ba1ca9d17272ac7e3a6.css" />
+        <link rel="stylesheet" href="https://www.hayashi-lin.net/style.min.9796fa46228996d78ed4352b9faae18de207f54f2af34e2478fe68e5cf0e08cc.css" />
         <title>An implementation of a fragment of Heim &amp; Kratzer (1998)&#39;s NL semantics &ndash; Noritsugu Hayashi</title>
     </head>
     <body>
@@ -52,7 +52,7 @@
         <article class="timeinfo">
             
                 <p>
-                    <time date="2018-10-03 00:13:54 &#43;0900 JST">
+                    <time date="2018-10-03 00:13:54 &#43;0900 &#43;0900">
                         Publish Date:
                         Oct 03, 2018
                     </time>
@@ -61,7 +61,7 @@
             
             
                 <p>
-                    <time date="2018-10-03 00:13:54 &#43;0900 JST">
+                    <time date="2018-10-03 00:13:54 &#43;0900 &#43;0900">
                         Last Modified:
                         Oct 03, 2018
                     </time>
@@ -70,58 +70,45 @@
         </article>
 
         <article class="content">
-            
-
-<p>I made a little attempt to give an implementation of some features of
+            <p>I made a little attempt to give an implementation of some features of 
 Heim &amp; Kratzer (1998) using Haskell,
-which covers
+which covers 
 the semantic calculation of one-place predicates applied to entities and
 generalized quantifiers applied to (pairs of) one-place predicates.</p>
-
 <h2 id="usage">Usage</h2>
-
 <p>Launch GHCi, load the source code below, and make your queries.</p>
-
 <p>Examples:</p>
-
-<pre><code class="language-Haskell">Prelude&gt; :l GQ.hs
-Prelude&gt; sleep Mary
-False
-Prelude&gt; a student sleep
-True
-</code></pre>
-
-<h2 id="source-code">Source code</h2>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-Haskell" data-lang="Haskell"><span style="color:#66d9ef">Prelude</span><span style="color:#f92672">&gt;</span> <span style="color:#66d9ef">:</span>l <span style="color:#66d9ef">GQ</span><span style="color:#f92672">.</span>hs
+<span style="color:#66d9ef">Prelude</span><span style="color:#f92672">&gt;</span> sleep <span style="color:#66d9ef">Mary</span>
+<span style="color:#66d9ef">False</span>
+<span style="color:#66d9ef">Prelude</span><span style="color:#f92672">&gt;</span> a student sleep
+<span style="color:#66d9ef">True</span>
+</code></pre></div><h2 id="source-code">Source code</h2>
 <p>Shown below.</p>
-
 <ul>
-<li>The object language is a fragment of clumsy English
+<li>The object language is a fragment of clumsy English 
 (in cluttered word orders),
 sentences of which are actually nothing but Haskell expressions.
-
 <ul>
-<li>The (syntactic) categories of those expressions
-are not overtly represented
-since they are totally determined by the (semantic) types
+<li>The (syntactic) categories of those expressions 
+are not overtly represented 
+since they are totally determined by the (semantic) types 
 of those interpretations.
 The &ldquo;types&rdquo; such as <code>Entity</code>，<code>Truth</code> belong to semantics.</li>
-</ul></li>
+</ul>
+</li>
 <li>The meta-language is, of course, Haskell.
-
 <ul>
 <li>Based on <em>the functional talk</em>.</li>
 <li>A certain trick is needed to enumerate the type constructors of
 <code>Entity</code>. The <code>Data.Data</code> module enables it.</li>
-</ul></li>
+</ul>
+</li>
 <li>The interpreter of the meta-language is GHCi.</li>
 </ul>
-
 <script type="application/javascript" src="https://gist.github.com/aslemen/3d179c13b24ab6e827101de4194c5755.js"></script>
 
-
-<hr />
-
+<hr>
 <ul>
 <li>Oct 3 2018 modified</li>
 <li>Oct 3 2018 translated to English</li>
