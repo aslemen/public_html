@@ -11,28 +11,11 @@
 	<atom:link href="https://www.hayashi-lin.net/en/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>An implementation of a fragment of Heim &amp; Kratzer (1998)&#39;s NL semantics</title>
-      <link>https://www.hayashi-lin.net/en/blog/20181003_hasksem/</link>
-      <pubDate>Wed, 03 Oct 2018 00:13:54 +0900</pubDate>
-      
-      <guid>https://www.hayashi-lin.net/en/blog/20181003_hasksem/</guid>
-      <description>I made a little attempt to give an implementation of some features of Heim &amp;amp; Kratzer (1998) using Haskell, which covers the semantic calculation of one-place predicates applied to entities and generalized quantifiers applied to (pairs of) one-place predicates.
-Usage Launch GHCi, load the source code below, and make your queries.
-Examples:
-Prelude&amp;gt; :l GQ.hs Prelude&amp;gt; sleep Mary False Prelude&amp;gt; a student sleep True Source code Shown below.
- The object language is a fragment of clumsy English (in cluttered word orders), sentences of which are actually nothing but Haskell expressions.</description>
-    </item>
     
-    <item>
-      <title>Website renewal</title>
-      <link>https://www.hayashi-lin.net/en/blog/20180407_renewal/</link>
-      <pubDate>Sat, 07 Apr 2018 13:16:29 +0900</pubDate>
-      
-      <guid>https://www.hayashi-lin.net/en/blog/20180407_renewal/</guid>
-      <description>I&amp;rsquo;ve changed the generating engine of my website from Wordpress to Hugo with my original bibliography manager morepo. The nice things about using a static website generator are that you don&amp;rsquo;t need CGI on your server, and that you can have a simpler way of managing your contents. The multi-lingual support of Hugo also impresses me a lot.
-I&amp;rsquo;m now still working on migrating the contents from the old website, which is taking more of my time.</description>
-    </item>
+    
+    
+    
+    
     
   </channel>
 </rss>

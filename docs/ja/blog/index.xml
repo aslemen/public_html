@@ -11,23 +11,11 @@
 	<atom:link href="https://www.hayashi-lin.net/ja/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Heim &amp; Kratzer (1998) のちょっとした実装</title>
-      <link>https://www.hayashi-lin.net/ja/blog/20181003_hasksem/</link>
-      <pubDate>Wed, 03 Oct 2018 00:13:54 +0900</pubDate>
-      
-      <guid>https://www.hayashi-lin.net/ja/blog/20181003_hasksem/</guid>
-      <description>Heim &amp;amp; Kratzer (1998)流の意味論の一部を，Haskell上で実装してみた． 1項述語と，それ上の一般化量化子が扱える． 使い方 GHCiで以下のソース</description>
-    </item>
     
-    <item>
-      <title>サイト更新</title>
-      <link>https://www.hayashi-lin.net/ja/blog/20180407_renewal/</link>
-      <pubDate>Sat, 07 Apr 2018 13:16:29 +0900</pubDate>
-      
-      <guid>https://www.hayashi-lin.net/ja/blog/20180407_renewal/</guid>
-      <description>サイトを更新しました． 以前はWordpressを使用しましたが， 今回はHugoと， 自前の文献管理プログラムmorepoを使用しております． サ</description>
-    </item>
+    
+    
+    
+    
     
   </channel>
 </rss>
