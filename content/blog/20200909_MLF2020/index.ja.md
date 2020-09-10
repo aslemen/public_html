@@ -9,8 +9,11 @@ date: 2020-09-09T11:00:00+09:00
 また，その現象は，実は，[Nanosyntaxの最新の理論の変種](https://ling.auf.net/lingbuzz/004875)に対して問題を投げかけます．
 それも同時に考える予定です．
 
-- [プログラム](https://www.konan-u.ac.jp/hp/mlf/files/MLF2020.pdf)
+- [プログラム＆要旨](https://www.konan-u.ac.jp/hp/mlf/files/MLF2020.pdf)
 - [発表資料]({{< resource "MLF2020_Hayashi.pdf" >}})
+    - 注：主張のうち，Nanosyntaxに関する部分については，要旨のものと比べて少し弱められていることに注意．
+        脚注44を参照のこと．
 
 ----
 
+- 2020/9/11 加筆
