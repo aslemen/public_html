@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.hayashi-lin.net/en/cv/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="en"
                 href="https://www.hayashi-lin.net/en/cv/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hayashi-lin.net/en/blog/</loc>
     <lastmod>2018-04-06T01:06:56+09:00</lastmod>
     <xhtml:link
@@ -29,9 +26,7 @@
                 hreflang="en"
                 href="https://www.hayashi-lin.net/en/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hayashi-lin.net/en/blog/20181003_hasksem/</loc>
     <lastmod>2018-10-03T00:13:54+09:00</lastmod>
     <xhtml:link
@@ -44,9 +39,7 @@
                 hreflang="en"
                 href="https://www.hayashi-lin.net/en/blog/20181003_hasksem/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hayashi-lin.net/en/</loc>
     <lastmod>2018-10-03T00:13:54+09:00</lastmod>
     <xhtml:link
@@ -59,9 +52,7 @@
                 hreflang="en"
                 href="https://www.hayashi-lin.net/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hayashi-lin.net/en/blog/20180407_renewal/</loc>
     <lastmod>2018-04-07T13:16:29+09:00</lastmod>
     <xhtml:link
@@ -74,9 +65,7 @@
                 hreflang="en"
                 href="https://www.hayashi-lin.net/en/blog/20180407_renewal/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hayashi-lin.net/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -88,9 +77,7 @@
                 hreflang="en"
                 href="https://www.hayashi-lin.net/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.hayashi-lin.net/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -103,5 +90,4 @@
                 href="https://www.hayashi-lin.net/en/tags/"
                 />
   </url>
-  
 </urlset>

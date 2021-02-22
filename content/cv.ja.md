@@ -78,3 +78,5 @@ weight: 200
 - <span>(審査あり)</span> Yusuke Kubota, Koji Mineshima, Noritsugu Hayashi, Shinya Okano. (2020/5) 
     Development of a General-Purpose Categorial Grammar Treebank. 
     12th Language Resources and Evaluation Conference (LREC 2020), Le Palais du Pharo, Marseille.
+- <span>(審査あり)</span> 林 則序 (2020/9) 遊離するように見えるNP数量詞の格付与について．形態論・レキシコン研究会 2020（MLF 2020），オンライン，日本．
+- <span>(審査あり)</span> 林 則序（2020/11）日本語の格助詞と副助詞・係助詞との語順の，Nanosyntaxによる記述．日本言語学会 第161回大会，オンライン，日本．
