@@ -22,7 +22,7 @@ weight: 200
 
 ## 職歴
 - (2016/4 &ndash; 2018/10) 国立国語研究所 理論・対照研究領域 技術補佐員
-- (2018/10 &ndash; ) 国立国語研究所 理論・対照研究領域 プロジェクト非常勤研究員
+- (2018/10 &ndash; 2021/3) 国立国語研究所 理論・対照研究領域 プロジェクト非常勤研究員
 
 ## 学歴
 - (2012/4 &ndash; 2014/3) 東京大学 教養学部理科一類
@@ -43,9 +43,10 @@ weight: 200
 - <span>（査読あり）</span> Yusuke Kubota, Koji Mineshima, Noritsugu Hayashi, Shinya Okano. (2020) 
     Development of a General-Purpose Categorial Grammar Treebank. 
     _Proceedings of 12th Language Resources and Evaluation Conference (LREC 2020)_, 5195 &ndash; 5201.
-- <span>（査読あり）</span> Noritsugu Hayashi (2020, in print, 16 pps) 
+- <span>（査読あり）</span> Noritsugu Hayashi (2020) 
     Towards a unified, semantically-calculable and antilexicalistic analysis of various anaphoric expressions using “stacked” continuations, 
     _New Frontiers in Artificial Intelligence JSAI-isAI 2019 Workshops Yokohama, Japan, November 10–12, 2019, Revised Selected Papers_,
+    214 &ndash; 230. 
     Springer.
 
 ### 口頭発表
@@ -80,3 +81,4 @@ weight: 200
     12th Language Resources and Evaluation Conference (LREC 2020), Le Palais du Pharo, Marseille.
 - <span>(審査あり)</span> 林 則序 (2020/9) 遊離するように見えるNP数量詞の格付与について．形態論・レキシコン研究会 2020（MLF 2020），オンライン，日本．
 - <span>(審査あり)</span> 林 則序（2020/11）日本語の格助詞と副助詞・係助詞との語順の，Nanosyntaxによる記述．日本言語学会 第161回大会，オンライン，日本．
+- <span>(審査あり)</span> Noritsugu Hayashi（2021/10）Copula, additive, and wh-indeterminates．J/K Linguistics 29, Online, Japan.
