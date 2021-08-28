@@ -1,5 +1,5 @@
 {
     "name": "hugo",
-    "dockerFile": "DockerFile",
+    "dockerFile": "Dockerfile",
     "appPort": [1313]
 }
