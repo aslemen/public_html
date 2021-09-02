@@ -5,20 +5,16 @@ menu: main
 weight: 200
 ---
 ## 個人情報
-<dl>
-    <dt>氏名</dt>
-    <dd>林 則序（のりつぐ）</dd>
-    <dt>国籍</dt>
-    <dd>日本</dd>
-    <dt>生年月日</dt>
-    <dd>1994/1/12</dd>
-    <dt>性別</dt>
-    <dd>男</dd>
-    <dt>ORC ID</dd>
-    <dd><a href="https://orcid.org/0000-0001-5829-9832">0000-0001-5829-9832</a></dd>
-</dl>
 
-<!-- [ここを参照](https://github.com/aslemen/academic-works) -->
+|           |                     | 
+| --------- | ------------------- | 
+| 氏名      | 林 則序（のりつぐ） | 
+| 国籍      | 日本                | 
+| 生年月日  | 1994/1/12           | 
+| 性別      | 男                  | 
+| ORC ID    | [0000-0001-5829-9832](https://orcid.org/0000-0001-5829-9832) |
+| Github   | [aslemen](https://github.com/aslemen) |
+| PGP公開鍵 | [Github](https://github.com/aslemen.gpg), [Email用](https://bit.ly/3mWapz2) | 
 
 ## 職歴
 - (2016/4 &ndash; 2018/10) 国立国語研究所 理論・対照研究領域 技術補佐員

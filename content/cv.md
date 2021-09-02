@@ -5,18 +5,16 @@ menu: main
 weight: 200
 ---
 ## Basic Information
-<dl>
-    <dt>Name</dt>
-    <dd>Noritsugu Hayashi</dd>
-    <dt>Nationality</dt>
-    <dd>Japan</dd>
-    <dt>Birthday</dt>
-    <dd>Jan 12, 1994</dd>
-    <dt>Gender</dt>
-    <dd>Male</dd>
-    <dt>ORC ID</dd>
-    <dd><a href="https://orcid.org/0000-0001-5829-9832">0000-0001-5829-9832</a></dd>
-</dl>
+
+|           |                     | 
+| --------- | ------------------- | 
+| Name      | Noritsugu (Nori) Hayashi | 
+| Nationality      | Japan                | 
+| Birthday  | Jan 12, 1994           | 
+| Gender      | Male                  | 
+| ORC ID    | [0000-0001-5829-9832](https://orcid.org/0000-0001-5829-9832) |
+| Github   | [aslemen](https://github.com/aslemen) |
+| PGP Public Keys | [Github](https://github.com/aslemen.gpg), [For Email](https://bit.ly/3mWapz2) | 
 
 [Please see here](https://github.com/aslemen/academic-works)
 
