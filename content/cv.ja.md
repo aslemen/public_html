@@ -14,7 +14,7 @@ weight: 200
 | 性別      | 男                  | 
 | ORC ID    | [0000-0001-5829-9832](https://orcid.org/0000-0001-5829-9832) |
 | Github   | [aslemen](https://github.com/aslemen) |
-| PGP公開鍵 | [Github](https://github.com/aslemen.gpg), [Email用](https://bit.ly/3mWapz2) | 
+| PGP公開鍵 | [6DD0 A11A D811 320B 0129 40A7 6F50 5E26 7249 C5DD](https://github.com/aslemen.gpg) | 
 
 ## 職歴
 - (2016/4 &ndash; 2018/10) 国立国語研究所 理論・対照研究領域 技術補佐員

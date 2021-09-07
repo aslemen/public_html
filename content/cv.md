@@ -14,7 +14,7 @@ weight: 200
 | Gender      | Male                  | 
 | ORC ID    | [0000-0001-5829-9832](https://orcid.org/0000-0001-5829-9832) |
 | Github   | [aslemen](https://github.com/aslemen) |
-| PGP Public Keys | [Github](https://github.com/aslemen.gpg), [For Email](https://bit.ly/3mWapz2) | 
+| PGP Public Keys | [6DD0 A11A D811 320B 0129 40A7 6F50 5E26 7249 C5DD](https://github.com/aslemen.gpg) | 
 
 [Please see here](https://github.com/aslemen/academic-works)
 
