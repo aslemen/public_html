@@ -36,14 +36,15 @@ weight: 200
     『言語処理学会 第25回年次大会発表論文集』143 &ndash; 146．
 - 林 則序，森 芳樹 (2019) 懸念標識の構成的意味論に向けて．
     『情報構造と話し手の状況把握』日本独文学会研究叢書 135, 54 &ndash; 79．
-- <span>（査読あり）</span> Yusuke Kubota, Koji Mineshima, Noritsugu Hayashi, Shinya Okano. (2020) 
+- Yusuke Kubota, Koji Mineshima, Noritsugu Hayashi, Shinya Okano. (2020) 
     Development of a General-Purpose Categorial Grammar Treebank. 
     _Proceedings of 12th Language Resources and Evaluation Conference (LREC 2020)_, 5195 &ndash; 5201.
-- <span>（査読あり）</span> Noritsugu Hayashi (2020) 
+- Noritsugu Hayashi (2020) 
     Towards a unified, semantically-calculable and antilexicalistic analysis of various anaphoric expressions using “stacked” continuations, 
     _New Frontiers in Artificial Intelligence JSAI-isAI 2019 Workshops Yokohama, Japan, November 10–12, 2019, Revised Selected Papers_,
     214 &ndash; 230. 
     Springer.
+- Noritsugu Hayashi (2022, to appear) Copula, additive, and wh-indeterminates. _Japanese/Korean Linguistics 29_. CSLI.
 
 ### 口頭発表
 - T. N. Hayashi (2017/1) Logophoric Anaphor and Empathy. 
@@ -78,3 +79,5 @@ weight: 200
 - <span>(審査あり)</span> 林 則序 (2020/9) 遊離するように見えるNP数量詞の格付与について．形態論・レキシコン研究会 2020（MLF 2020），オンライン，日本．
 - <span>(審査あり)</span> 林 則序（2020/11）日本語の格助詞と副助詞・係助詞との語順の，Nanosyntaxによる記述．日本言語学会 第161回大会，オンライン，日本．
 - <span>(審査あり)</span> Noritsugu Hayashi（2021/10）Copula, additive, and wh-indeterminates．J/K Linguistics 29, Online, Japan.
+- <span>(審査あり)</span> Noritsugu Hayashi (2022/3) Generating and licensing the universality of the Japanese NPI _dare-mo_.
+    Theoretical Linguistics at Keio Semantic Conference, Mita, Tokyo, Japan.
