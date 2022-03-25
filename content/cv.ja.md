@@ -13,7 +13,7 @@ weight: 200
 | 生年月日  | 1994/1/12           | 
 | 性別      | 男                  | 
 | ORC ID    | [0000-0001-5829-9832](https://orcid.org/0000-0001-5829-9832) |
-| Github   | [aslemen](https://github.com/aslemen) |
+| GitHub   | [aslemen](https://github.com/aslemen) |
 | PGP公開鍵 | [6DD0 A11A D811 320B 0129 40A7 6F50 5E26 7249 C5DD](https://github.com/aslemen.gpg) | 
 
 ## 職歴
@@ -70,7 +70,7 @@ weight: 200
     LENLS 16, Keio University, Hiyoshi.
 - <span>(審査あり)</span> Shin-ya Okano, Katsumasa Ito, Noritsugu Hayashi & Yoshiki Mori. (2020/2) 
     On seemingly non-selected, indirectly quoted embedded questions in Japanese. 
-    Workshop on non-interrogative subordiante wh-clauses 2020, House of Prominence, Universität zu Köln.
+    Workshop on non-interrogative subordinate wh-clauses 2020, House of Prominence, Universität zu Köln.
 - Noritsugu Hayashi (2020/2) Two cases of co-exhaustification. 
     5. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 5), House of Prominence, Universität zu Köln.
 - <span>(審査あり)</span> Yusuke Kubota, Koji Mineshima, Noritsugu Hayashi, Shinya Okano. (2020/5) 

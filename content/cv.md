@@ -13,7 +13,7 @@ weight: 200
 | Birthday  | Jan 12, 1994           | 
 | Gender      | Male                  | 
 | ORC ID    | [0000-0001-5829-9832](https://orcid.org/0000-0001-5829-9832) |
-| Github   | [aslemen](https://github.com/aslemen) |
+| GitHub   | [aslemen](https://github.com/aslemen) |
 | PGP Public Keys | [6DD0 A11A D811 320B 0129 40A7 6F50 5E26 7249 C5DD](https://github.com/aslemen.gpg) | 
 
 ## Employments
@@ -91,7 +91,7 @@ weight: 200
 - <span>(Selected)</span>
   Shin-ya Okano, Katsumasa Ito, **Noritsugu Hayashi**, and Yoshiki Mori. (Feb 2020)  
   On seemingly non-selected, indirectly quoted embedded questions in Japanese.  
-  Workshop on non-interrogative subordiante wh-clauses 2020, House of Prominence, Universität zu Köln.
+  Workshop on non-interrogative subordinate wh-clauses 2020, House of Prominence, Universität zu Köln.
 - Noritsugu Hayashi (Feb 2020)  
   Two cases of co-exhaustification.  
   5. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 5).
@@ -102,7 +102,7 @@ weight: 200
   The 12th Language Resources and Evaluation Conference (LREC 2020).
   Le Palais du Pharo, Marseille.
 - <span>(Selected)</span> Nori Hayashi (Sep 2020)  
-  On the case assignment to appearently floating numeral NPs.  
+  On the case assignment to apparently floating numeral NPs.  
   [Morphology and Lexicon Forum (MLF 2020)](https://www.konan-u.ac.jp/hp/mlf/files/MLF2020.pdf). Online, Japan.
 - <span>(Selected)</span> Nori Hayashi (Nov 2020)  
   A Nanosyntactic description of the ordering of case markers and focus markers in Japanese.  
