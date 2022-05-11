@@ -44,13 +44,17 @@ weight: 200
 - Yusuke Kubota, Koji Mineshima, **Noritsugu Hayashi**, and Shinya Okano. (2020)  
   Development of a general-purpose Categorial Grammar treebank.  
   _Proceedings of the 12th Language Resources and Evaluation Conference (LREC 2020)_, 5195 &ndash; 5201.
+    - [ACL Anthology](https://aclanthology.org/2020.lrec-1.639)
 - Noritsugu Hayashi (2020)  
   Towards a unified, semantically-calculable and antilexicalistic analysis of various anaphoric expressions using “stacked” continuations.  
   _New Frontiers in Artificial Intelligence JSAI-isAI 2019 Workshops Yokohama, Japan, November 10–12, 2019, Revised Selected Papers_,
   214 &ndash; 230. Springer.
-- Noritsugu Hayashi (2022, to appear)  
+    - [![DOI](https://img.shields.io/badge/DOI-0.1007%2F978--3--030--58790--1__14-blue)](https://doi.org/10.1007/978-3-030-58790-1_14)
+- Noritsugu Hayashi (2022)  
   Copula, additive, and wh-indeterminates.  
-  _Japanese/Korean Linguistics 29_. CSLI.
+  _Proceedings of the 29th International Conference on Japanese/Korean Linguistics_, 181 &ndash; 195. CSLI.
+    - [Publisher Website](http://web.stanford.edu/group/cslipublications/cslipublications/site/JK29Abstract.shtml)
+    - [PDF](http://web.stanford.edu/group/cslipublications/cslipublications/site/JKONLINE/29/CH11.pdf)
 
 ### Presentations 
 - T. N. Hayashi. (Jan 2017)  
@@ -104,13 +108,16 @@ weight: 200
 - <span>(Selected)</span> Nori Hayashi (Sep 2020)  
   On the case assignment to apparently floating numeral NPs.  
   [Morphology and Lexicon Forum (MLF 2020)](https://www.konan-u.ac.jp/hp/mlf/files/MLF2020.pdf). Online, Japan.
+    - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6416950.svg)](https://doi.org/10.5281/zenodo.6416950)
 - <span>(Selected)</span> Nori Hayashi (Nov 2020)  
   A Nanosyntactic description of the ordering of case markers and focus markers in Japanese.  
   The 161st meeting of the Linguistic Society of Japan. Online.
+    - [PDF](http://www.ls-japan.org/modules/documents/LSJpapers/meeting/161/handouts/f/F-2_161.pdf)
 - <span>(Selected)</span> Noritsugu Hayashi（Oct 2021)  
   Copula, additive, and wh-indeterminates．[J/K Linguistics 29](https://sites.google.com/view/jkconf29/). Online, Japan.
 - <span>(Selected)</span> Noritsugu Hayashi (Mar 2022)  
   Generating and licensing the universality of the Japanese NPI _dare-mo_.  
   [Theoretical Linguistics at Keio Semantic Conference](https://sites.google.com/view/talk2022/).
   Mita, Tokyo, Japan.
+    - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6416790.svg)](https://doi.org/10.5281/zenodo.6416790)
   

@@ -39,14 +39,19 @@ weight: 200
 - Yusuke Kubota, Koji Mineshima, Noritsugu Hayashi, Shinya Okano. (2020) 
     Development of a General-Purpose Categorial Grammar Treebank. 
     _Proceedings of 12th Language Resources and Evaluation Conference (LREC 2020)_, 5195 &ndash; 5201.
+    - [ACL Anthology](https://aclanthology.org/2020.lrec-1.639)
 - Noritsugu Hayashi (2020) 
-    Towards a unified, semantically-calculable and antilexicalistic analysis of various anaphoric expressions using “stacked” continuations, 
+    Towards a unified, semantically-calculable and antilexicalistic analysis of various anaphoric expressions using “stacked” continuations.
     _New Frontiers in Artificial Intelligence JSAI-isAI 2019 Workshops Yokohama, Japan, November 10–12, 2019, Revised Selected Papers_,
     214 &ndash; 230. 
     Springer.
-- Noritsugu Hayashi (2022, to appear) Copula, additive, and wh-indeterminates. _Japanese/Korean Linguistics 29_. CSLI.
+    - [![DOI](https://img.shields.io/badge/DOI-0.1007%2F978--3--030--58790--1__14-blue)](https://doi.org/10.1007/978-3-030-58790-1_14)
+- Noritsugu Hayashi (2022) Copula, additive, and wh-indeterminates.
+  _Proceedings of the 29th International Conference on Japanese/Korean Linguistics_, 181 &ndash; 195. CSLI.
+    - [出版社ウェブページ](http://web.stanford.edu/group/cslipublications/cslipublications/site/JK29Abstract.shtml)
+    - [PDF](http://web.stanford.edu/group/cslipublications/cslipublications/site/JKONLINE/29/CH11.pdf)
 
-### 口頭発表
+### 口頭発表Publisher
 - T. N. Hayashi (2017/1) Logophoric Anaphor and Empathy. 
     2. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 2), Universität zu Köln.
 - <span>(審査あり)</span> Noritsugu Hayashi & Yoshiki Mori (2017/9) Long Distance Anaphor and φ-typology. 
@@ -77,7 +82,11 @@ weight: 200
     Development of a General-Purpose Categorial Grammar Treebank. 
     12th Language Resources and Evaluation Conference (LREC 2020), Le Palais du Pharo, Marseille.
 - <span>(審査あり)</span> 林 則序 (2020/9) 遊離するように見えるNP数量詞の格付与について．形態論・レキシコン研究会 2020（MLF 2020），オンライン，日本．
+    - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6416950.svg)](https://doi.org/10.5281/zenodo.6416950)
 - <span>(審査あり)</span> 林 則序（2020/11）日本語の格助詞と副助詞・係助詞との語順の，Nanosyntaxによる記述．日本言語学会 第161回大会，オンライン，日本．
+    - [PDF](http://www.ls-japan.org/modules/documents/LSJpapers/meeting/161/handouts/f/F-2_161.pdf)
 - <span>(審査あり)</span> Noritsugu Hayashi（2021/10）Copula, additive, and wh-indeterminates．J/K Linguistics 29, Online, Japan.
 - <span>(審査あり)</span> Noritsugu Hayashi (2022/3) Generating and licensing the universality of the Japanese NPI _dare-mo_.
     Theoretical Linguistics at Keio Semantic Conference, Mita, Tokyo, Japan.
+    - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6416790.svg)](https://doi.org/10.5281/zenodo.6416790)
+
