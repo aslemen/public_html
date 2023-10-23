@@ -55,12 +55,24 @@ weight: 200
     『情報構造と話し手の状況把握』日本独文学会研究叢書 135, 54 &ndash; 79．
 
 ### 口頭発表
+- <span>(審査あり)</span>
+  Noritsugu Hayashi (2023/11)  
+  Additivity in Attention Semantics.  
+  [LENLS 20](https://lenls.github.io/lenls20/).
+  Osaka University Nakanoshima Center.
+- Nori Haysahi (2022/7)  
+  Wh-indeterminates mark homogeneity.  
+  [7. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 7)](https://idsl1.phil-fak.uni-koeln.de/personen/professorenseiten/prof-dr-klaus-von-heusinger-1/konferenzen-workshops/gakt-7-strukturen-und-interpretationen).
+  Raum S78 im Philosophikum, Universität zu Köln.
 - <span>(審査あり)</span> Noritsugu Hayashi (2022/3)  
     Generating and licensing the universality of the Japanese NPI _dare-mo_.  
-    Theoretical Linguistics at Keio Semantic Conference, Mita, Tokyo, Japan.
+    [Theoretical Linguistics at Keio Semantic Conference](https://sites.google.com/view/talk2022/).
+    Mita, Tokyo, Japan.
     - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6416790.svg)](https://doi.org/10.5281/zenodo.6416790)
 - <span>(審査あり)</span> Noritsugu Hayashi（2021/10）  
-    Copula, additive, and wh-indeterminates．J/K Linguistics 29, Online, Japan.  
+    Copula, additive, and wh-indeterminates.  
+    [J/K Linguistics 29](https://sites.google.com/view/jkconf29/).
+    Online, Japan.  
 - <span>(審査あり)</span> 林 則序（2020/11）  
     日本語の格助詞と副助詞・係助詞との語順の，Nanosyntaxによる記述．日本言語学会 第161回大会，オンライン，日本．  
     - [PDF](http://www.ls-japan.org/modules/documents/LSJpapers/meeting/161/handouts/f/F-2_161.pdf)
@@ -69,19 +81,21 @@ weight: 200
     - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6416950.svg)](https://doi.org/10.5281/zenodo.6416950)
 - <span>(審査あり)</span> Yusuke Kubota, Koji Mineshima, Noritsugu Hayashi, Shinya Okano. (2020/5)  
     Development of a General-Purpose Categorial Grammar Treebank.  
-    12th Language Resources and Evaluation Conference (LREC 2020), Le Palais du Pharo, Marseille.
+    [The 12th Language Resources and Evaluation Conference (LREC 2020)](https://lrec2020.lrec-conf.org/).
+    Le Palais du Pharo, Marseille.
 - Noritsugu Hayashi (2020/2)  
     Two cases of co-exhaustification.  
-    5. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 5), House of Prominence, Universität zu Köln.
+    [5. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 5)](https://idsl1.phil-fak.uni-koeln.de/personen/professorenseiten/prof-dr-klaus-von-heusinger-1/konferenzen-workshops/gakt-5-informationsstruktur-in-semantik-und-syntax).
+    House of Prominence, Universität zu Köln.
 - <span>(審査あり)</span> Shin-ya Okano, Katsumasa Ito, Noritsugu Hayashi & Yoshiki Mori. (2020/2)  
     On seemingly non-selected, indirectly quoted embedded questions in Japanese.  
     Workshop on non-interrogative subordinate wh-clauses 2020, House of Prominence, Universität zu Köln.
 - <span>(審査あり)</span> Noritsugu Hayashi (2019/11)  
     Towards a unified, semantically-calculable and antilexicalistic analysis of various anaphoric expressions using "stacked" continuations. 
-    LENLS 16, Keio University, Hiyoshi.
+    [LENLS 16](https://lenls.github.io/lenls16/). Keio University, Hiyoshi.
 - Noritsugu Hayashi & Shinya Okano (2019/3)  
     On the apparent unambiguous scoping of weak necessity modals over negation. 
-    4. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 4), 
+    [4. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 4)](https://phiz.c.u-tokyo.ac.jp/~morisem/ja/post/gakt4/).
     University of Tokyo, Komaba.
 - 窪田 悠介，峯島 宏次，林 則序，岡野 伸哉 (2019/3)  
     汎用的な範疇文法ツリーバンクの構築．
@@ -95,12 +109,13 @@ weight: 200
     日本独文学会第72回 春季研究発表会，早稲田大学戸山キャンパス
 - Noritsugu Hayashi & Yoshiki Mori (2018/1)  
     An initial attempt of describing _-te shimau_ as apprehensiveness marker.  
-    3. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 3), 
+    [3. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 3)](https://idsl1.phil-fak.uni-koeln.de/personen/professorenseiten/prof-dr-klaus-von-heusinger-1/konferenzen-workshops/gakt-3-grammatik-im-spannungsfeld-zwischen-syntax-und-semantik).
     House of Prominence, Universität zu Köln.
 - <span>(審査あり)</span> Noritsugu Hayashi & Yoshiki Mori (2017/9)  
     Long Distance Anaphor and φ-typology.  
     Variation as the new norm in syntactic research, 47th Poznań Linguistic Meeting (PLM 47). 
     Adam Mickiewicz University in Poznań.
 - T. N. Hayashi (2017/1)  
-    Logophoric Anaphor and Empathy. 
-    2. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 2), Universität zu Köln.
+    Logophoric Anaphor and Empathy.  
+    [2. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 2)](https://idsl1.phil-fak.uni-koeln.de/personen/professorenseiten/prof-dr-klaus-von-heusinger-1/konferenzen-workshops/gakt-2-form-und-funktion).
+    Universität zu Köln.
