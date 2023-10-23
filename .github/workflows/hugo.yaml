@@ -58,11 +58,11 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            --destination "$OUTPUT_DIR"
+            --destination "${{ env.OUTPUT_DIR }}"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: "$OUTPUT_DIR"
+          path: "${{ env.OUTPUT_DIR }}"
 
   # Deployment job
   deploy:
