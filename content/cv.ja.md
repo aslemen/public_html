@@ -69,8 +69,7 @@ weight: 200
     Generating and licensing the universality of the Japanese NPI _dare-mo_.  
     [Theoretical Linguistics at Keio Semantic Conference](https://sites.google.com/view/talk2022/).
     Mita, Tokyo, Japan.
-    - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6416790.svg)](https://doi.org/10.5281/zenodo.6416790)
-- <span>(審査あり)</span> Noritsugu Hayashi（2021/10）  
+    - {{< zenodo "6416790" >}}
 - {{< work_selected >}}
     Noritsugu Hayashi（2021/10）  
     Copula, additive, and wh-indeterminates.  
@@ -83,8 +82,7 @@ weight: 200
 - {{< work_selected >}}
     林 則序 (2020/9)  
     遊離するように見えるNP数量詞の格付与について．形態論・レキシコン研究会 2020（MLF 2020），オンライン，日本．  
-    - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6416950.svg)](https://doi.org/10.5281/zenodo.6416950)
-- <span>(審査あり)</span> Yusuke Kubota, Koji Mineshima, Noritsugu Hayashi, Shinya Okano. (2020/5)  
+    - {{< zenodo "6416950" >}}
 - {{< work_selected >}}
     Yusuke Kubota, Koji Mineshima, Noritsugu Hayashi, Shinya Okano. (2020/5)  
     Development of a General-Purpose Categorial Grammar Treebank.  

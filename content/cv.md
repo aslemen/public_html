@@ -70,7 +70,7 @@ weight: 200
   Generating and licensing the universality of the Japanese NPI _dare-mo_.  
   [Theoretical Linguistics at Keio Semantic Conference](https://sites.google.com/view/talk2022/).
   Mita, Tokyo, Japan.
-    - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6416790.svg)](https://doi.org/10.5281/zenodo.6416790)
+    - {{< zenodo "6416790" >}}
 - {{< work_selected >}} Noritsugu Hayashi (Oct 2021)  
   Copula, additive, and wh-indeterminates.  
   [J/K Linguistics 29](https://sites.google.com/view/jkconf29/).
@@ -83,7 +83,7 @@ weight: 200
   On the case assignment to apparently floating numeral NPs.  
   [Morphology and Lexicon Forum (MLF 2020)](https://www.konan-u.ac.jp/hp/mlf/files/MLF2020.pdf). 
   Online, Japan.
-    - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6416950.svg)](https://doi.org/10.5281/zenodo.6416950)
+    - {{< zenodo "6416950" >}}
 - {{< work_selected >}}
   Yusuke Kubota, Koji Mineshima, **Noritsugu Hayashi** and Shinya Okano. (May 2020)  
   Development of a general-purpose Categorial Grammar Treebank.  
