@@ -1,5 +1,5 @@
-module aslemen-website
+module github.com/aslemen/public_html/v2
 
-go 1.14
+go 1.19
 
-require github.com/aslemen/hugo-etch v0.0.0-20200716125025-2fcf5597dda1 // indirect
+require github.com/aslemen/hugo-etch/v2 v2.0.0-20240105080002-41ef3973e88f // indirect
