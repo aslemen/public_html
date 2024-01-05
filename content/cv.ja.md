@@ -32,6 +32,10 @@ weight: 200
 
 ## 研究活動
 ### 会議予稿
+- 窪田 悠介，**林 則序**，天本貴之，峯島 宏次 (2023)  
+    比較文の意味解析のための「深い」係り受け関係の解析．  
+    『言語処理学会 第29回年次大会発表論文集』2962 &ndash; 2967．
+    - [PDF](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D12-1.pdf)
 - Noritsugu Hayashi (2022)  
     Copula, additive, and wh-indeterminates.  
   _Proceedings of the 29th International Conference on Japanese/Korean Linguistics_, 181 &ndash; 195. CSLI.
@@ -46,19 +50,21 @@ weight: 200
 - Yusuke Kubota, Koji Mineshima, Noritsugu Hayashi, Shinya Okano. (2020)  
     Development of a General-Purpose Categorial Grammar Treebank.  
     _Proceedings of 12th Language Resources and Evaluation Conference (LREC 2020)_, 5195 &ndash; 5201.
-    - [ACL Anthology](https://aclanthology.org/2020.lrec-1.639)    
-- 窪田 悠介，峯島 宏次，林 則序，岡野 伸哉 (2019)  
+    - [ACL Anthology](https://aclanthology.org/2020.lrec-1.639)
+- 窪田 悠介，峯島 宏次，**林 則序**，岡野 伸哉 (2019)  
     汎用的な範疇文法ツリーバンクの構築．  
-    『言語処理学会 第25回年次大会発表論文集』143 &ndash; 146．
-- 林 則序，森 芳樹 (2019)  
+    『言語処理学会 第25回年次大会発表論文集』1529 &ndash; 1534．
+    - [PDF](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/E8-1.pdf)
+- **林 則序**，森 芳樹 (2019)  
     懸念標識の構成的意味論に向けて．  
     『情報構造と話し手の状況把握』日本独文学会研究叢書 135, 54 &ndash; 79．
+    - [PDF](https://www.jgg.jp/pluginfile.php/133/mod_book/chapter/30/SrJGG-135.pdf)
 
 ### 口頭発表
 - {{< work_selected >}}
   Noritsugu Hayashi (2023/11)  
   Additivity in Attention Semantics.  
-  [LENLS 20](https://lenls.github.io/lenls20/).
+  [Logic and Engineering of Natural Language Semantics 20 (LENLS 20)](https://lenls.github.io/lenls20/).
   Osaka University Nakanoshima Center.
 - Nori Haysahi (2022/7)  
   Wh-indeterminates mark homogeneity.  
@@ -99,7 +105,7 @@ weight: 200
 - {{< work_selected >}}
     Noritsugu Hayashi (2019/11)  
     Towards a unified, semantically-calculable and antilexicalistic analysis of various anaphoric expressions using "stacked" continuations. 
-    [LENLS 16](https://lenls.github.io/lenls16/). Keio University, Hiyoshi.
+    [Logic and Engineering of Natural Language Semantics 16 (LENLS 16)](https://lenls.github.io/lenls16/). Keio University, Hiyoshi.
 - Noritsugu Hayashi & Shinya Okano (2019/3)  
     On the apparent unambiguous scoping of weak necessity modals over negation. 
     [4. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 4)](https://phiz.c.u-tokyo.ac.jp/~morisem/ja/post/gakt4/).

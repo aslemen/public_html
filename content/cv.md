@@ -33,11 +33,15 @@ weight: 200
 
 ## Research activities
 ### Conference proceedings
+- Yusuke Kubota, Noritsugu Hayashi, Takayuki Amamoto, Koji Mineshima (2023)  
+  A “deep” dependency analsys for the semantics of comparative clauses.
+  _Proceedings of the 29th Annual Meeting of the Association for Natural Language Processing_, 2962 &ndash; 2967.
+    - [PDF (ja)](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D12-1.pdf)
 - Noritsugu Hayashi (2022)  
   Copula, additive, and wh-indeterminates.  
   _Proceedings of the 29th International Conference on Japanese/Korean Linguistics_, 181 &ndash; 195. CSLI.
     - [Publisher Website](http://web.stanford.edu/group/cslipublications/cslipublications/site/JK29Abstract.shtml)
-    - [PDF](http://web.stanford.edu/group/cslipublications/cslipublications/site/JKONLINE/29/CH11.pdf)
+    - [PDF (en)](http://web.stanford.edu/group/cslipublications/cslipublications/site/JKONLINE/29/CH11.pdf)
 - Noritsugu Hayashi (2020)  
   Towards a unified, semantically-calculable and antilexicalistic analysis of various anaphoric expressions using “stacked” continuations.  
   _New Frontiers in Artificial Intelligence JSAI-isAI 2019 Workshops Yokohama, Japan, November 10–12, 2019, Revised Selected Papers_,
@@ -47,20 +51,22 @@ weight: 200
   Development of a general-purpose Categorial Grammar treebank.  
   _Proceedings of the 12th Language Resources and Evaluation Conference (LREC 2020)_, 5195 &ndash; 5201.
     - [ACL Anthology](https://aclanthology.org/2020.lrec-1.639)
-- **Noritsugu Hayashi** and Yoshiki Mori. (2019)  
-  Towards a compositional semantics of apprehensiveness markers.  
-  _Information structure and speakers' situation comprehension_,
-  Japanische Gesellschaft für Germanistik research series 135, 54 &ndash; 79．
 - Yusuke Kubota, Koji Mineshima, **Noritsugu Hayashi**, and Shinya Okano. (2019)  
   Creating a general-purpose CCG treebank.  
   _Proceedings of the 25th annual meeting of the Japanese Association for Natural Language Processing_,
   143 &ndash; 146.
+    - [PDF (ja)](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/E8-1.pdf)
+- **Noritsugu Hayashi** and Yoshiki Mori. (2019)  
+  Towards a compositional semantics of apprehensiveness markers.  
+  _Information structure and speakers' situation comprehension_,
+  Japanische Gesellschaft für Germanistik research series 135, 54 &ndash; 79．
+    - [PDF (ja)](https://www.jgg.jp/pluginfile.php/133/mod_book/chapter/30/SrJGG-135.pdf)
 
 ### Presentations 
 - {{< work_selected >}}
   Noritsugu Hayashi (Nov 2023)  
   Additivity in Attention Semantics.  
-  [LENLS 20](https://lenls.github.io/lenls20/).
+  [Logic and Engineering of Natural Language Semantics 20 (LENLS 20)](https://lenls.github.io/lenls20/).
   Osaka University Nakanoshima Center.
 - Nori Haysahi (Jul 2022)  
   Wh-indeterminates mark homogeneity.  
@@ -101,7 +107,7 @@ weight: 200
 - {{< work_selected >}}
   Noritsugu Hayashi (Nov 2019)  
   Towards a unified, semantically-calculable and antilexicalistic analysis of various anaphoric expressions using "stacked" continuations.  
-  [LENLS 16](https://lenls.github.io/lenls16/).
+  [Logic and Engineering of Natural Language Semantics 16 (LENLS 16)](https://lenls.github.io/lenls16/).
   Keio University, Hiyoshi.
 - **Noritsugu Hayashi** and Shinya Okano (Mar 2019)  
   On the apparent unambiguous scoping of weak necessity modals over negation.  
