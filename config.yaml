@@ -18,7 +18,7 @@ hasCJKLanguage: True
 languages:
   en:
     languageName: English
-    title: Noritsugu Hayashi
+    title: Nori Hayashi
     weight: 1
     params:
       DateFormat: Jan 02, 2006
@@ -27,8 +27,8 @@ languages:
     title: 林 則序
     weight: 2
     params:
-      DateFormat: 2006/01/02
+      DateFormat: 2006-01-30
 
 # Langauge-Indepdndent Parameters
 params:
-  copyright: Copyright © 2016–2020 Noritsugu Hayashi
+  copyright: Copyright © 2016–2024 Nori Hayashi
