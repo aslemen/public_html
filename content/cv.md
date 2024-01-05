@@ -57,7 +57,7 @@ weight: 200
   143 &ndash; 146.
 
 ### Presentations 
-- <span>(Selected)</span>
+- {{< work_selected >}}
   Noritsugu Hayashi (Nov 2023)  
   Additivity in Attention Semantics.  
   [LENLS 20](https://lenls.github.io/lenls20/).
@@ -66,25 +66,25 @@ weight: 200
   Wh-indeterminates mark homogeneity.  
   [7. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 7)](https://idsl1.phil-fak.uni-koeln.de/personen/professorenseiten/prof-dr-klaus-von-heusinger-1/konferenzen-workshops/gakt-7-strukturen-und-interpretationen).
   Raum S78 im Philosophikum, Universität zu Köln.
-- <span>(Selected)</span> Noritsugu Hayashi (Mar 2022)  
+- {{< work_selected >}} Noritsugu Hayashi (Mar 2022)  
   Generating and licensing the universality of the Japanese NPI _dare-mo_.  
   [Theoretical Linguistics at Keio Semantic Conference](https://sites.google.com/view/talk2022/).
   Mita, Tokyo, Japan.
     - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6416790.svg)](https://doi.org/10.5281/zenodo.6416790)
-- <span>(Selected)</span> Noritsugu Hayashi (Oct 2021)  
+- {{< work_selected >}} Noritsugu Hayashi (Oct 2021)  
   Copula, additive, and wh-indeterminates.  
   [J/K Linguistics 29](https://sites.google.com/view/jkconf29/).
   Online, Japan.
-- <span>(Selected)</span> Nori Hayashi (Nov 2020)  
+- {{< work_selected >}} Nori Hayashi (Nov 2020)  
   A Nanosyntactic description of the ordering of case markers and focus markers in Japanese.  
   The 161st meeting of the Linguistic Society of Japan. Online.
     - [PDF](http://www.ls-japan.org/modules/documents/LSJpapers/meeting/161/handouts/f/F-2_161.pdf)
-- <span>(Selected)</span> Nori Hayashi (Sep 2020)  
+- {{< work_selected >}} Nori Hayashi (Sep 2020)  
   On the case assignment to apparently floating numeral NPs.  
   [Morphology and Lexicon Forum (MLF 2020)](https://www.konan-u.ac.jp/hp/mlf/files/MLF2020.pdf). 
   Online, Japan.
     - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6416950.svg)](https://doi.org/10.5281/zenodo.6416950)
-- <span>(Selected)</span>
+- {{< work_selected >}}
   Yusuke Kubota, Koji Mineshima, **Noritsugu Hayashi** and Shinya Okano. (May 2020)  
   Development of a general-purpose Categorial Grammar Treebank.  
   [The 12th Language Resources and Evaluation Conference (LREC 2020)](https://lrec2020.lrec-conf.org/).
@@ -93,12 +93,13 @@ weight: 200
   Two cases of co-exhaustification.  
   [5. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 5)](https://idsl1.phil-fak.uni-koeln.de/personen/professorenseiten/prof-dr-klaus-von-heusinger-1/konferenzen-workshops/gakt-5-informationsstruktur-in-semantik-und-syntax).
   House of Prominence, Universität zu Köln.
-- <span>(Selected)</span>
+- {{< work_selected >}}
   Shin-ya Okano, Katsumasa Ito, **Noritsugu Hayashi**, and Yoshiki Mori. (Feb 2020)  
   On seemingly non-selected, indirectly quoted embedded questions in Japanese.  
   Workshop on non-interrogative subordinate wh-clauses 2020.
   House of Prominence, Universität zu Köln.
-- <span>(Selected)</span> Noritsugu Hayashi (Nov 2019)  
+- {{< work_selected >}}
+  Noritsugu Hayashi (Nov 2019)  
   Towards a unified, semantically-calculable and antilexicalistic analysis of various anaphoric expressions using "stacked" continuations.  
   [LENLS 16](https://lenls.github.io/lenls16/).
   Keio University, Hiyoshi.
@@ -110,7 +111,7 @@ weight: 200
   Creating a general-purpose CCG treebank.  
   The 25th annual meeting of the Japanese Association for Natural Language Processing.
   Nagoya University.
-- <span>(Selected)</span>
+- {{< work_selected >}}
   **Noritsugu Hayashi**, Katsumasa Ito, Yuto Yamazaki and Yoshiki Mori (Sep 2018)  
   _-te shima(u)_ as apprehensiveness trigger.  
   Workshop 14: The semantics and pragmatics of apprehensive markers in a crosslinguistic perspective,
@@ -125,7 +126,7 @@ weight: 200
   An initial attempt of describing _-te shimau_ as apprehensiveness marker.  
   [3. Workshop Germanistische Linguistik zwischen Köln und Tokio (GAKT 3)](https://idsl1.phil-fak.uni-koeln.de/personen/professorenseiten/prof-dr-klaus-von-heusinger-1/konferenzen-workshops/gakt-3-grammatik-im-spannungsfeld-zwischen-syntax-und-semantik).
   House of Prominence, Universität zu Köln.
-- <span>(Selected)</span> 
+- {{< work_selected >}}
   **Noritsugu Hayashi** and Yoshiki Mori. (Sep 2017)  
   Long Distance Anaphor and φ-typology.  
   Variation as the new norm in syntactic research, 47th Poznań Linguistic Meeting (PLM 47).
