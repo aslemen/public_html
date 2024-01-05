@@ -10,7 +10,7 @@ security:
 
 module:
   imports:
-  - path: github.com/aslemen/hugo-etch
+  - path: github.com/aslemen/hugo-etch/v2
 
 # Languages
 languageCode: en-us
