@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.81.0-alpine
+FROM klakegg/hugo:0.111.3-ext-ubuntu
 
 ENV LANG=C.UTF-8
-RUN apk --no-cache add git bash go
+RUN apt update && apt upgrade -y && apt install -y golang-go
