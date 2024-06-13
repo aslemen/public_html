@@ -32,6 +32,10 @@ weight: 200
 
 ## 研究活動
 ### 会議予稿
+- Noritsugu Hayashi (2024)  
+  Additivity in Attention Semantics.  
+  _Logic and Engineering of Natural Language Semantics: 20th International Conference, LENLS20, Osaka, Japan, November 18–20, 2023, Revised Selected Papers_, 84 &ndash; 117. Springer.
+  - [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--60878--0__6-blue)](https://doi.org/10.1007/978-3-031-60878-0_6)
 - 窪田 悠介，**林 則序**，天本貴之，峯島 宏次 (2023)  
     比較文の意味解析のための「深い」係り受け関係の解析．  
     『言語処理学会 第29回年次大会発表論文集』2962 &ndash; 2967．

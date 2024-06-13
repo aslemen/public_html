@@ -33,7 +33,11 @@ weight: 200
 
 ## Research activities
 ### Conference proceedings
-- Yusuke Kubota, Noritsugu Hayashi, Takayuki Amamoto, Koji Mineshima (2023)  
+- Noritsugu Hayashi (2024)  
+  Additivity in Attention Semantics.  
+  _Logic and Engineering of Natural Language Semantics: 20th International Conference, LENLS20, Osaka, Japan, November 18–20, 2023, Revised Selected Papers_, 84 &ndash; 117. Springer.
+  - [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--60878--0__6-blue)](https://doi.org/10.1007/978-3-031-60878-0_6)
+- Yusuke Kubota, **Noritsugu Hayashi**, Takayuki Amamoto, Koji Mineshima (2023)  
   A “deep” dependency analsys for the semantics of comparative clauses.
   _Proceedings of the 29th Annual Meeting of the Association for Natural Language Processing_, 2962 &ndash; 2967.
     - [PDF (ja)](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D12-1.pdf)
