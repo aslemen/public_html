@@ -46,7 +46,7 @@ weight: 200
     _New Frontiers in Artificial Intelligence JSAI-isAI 2019 Workshops Yokohama, Japan, November 10–12, 2019, Revised Selected Papers_,
     214 &ndash; 230. 
     Springer.
-    - [![DOI](https://img.shields.io/badge/DOI-0.1007%2F978--3--030--58790--1__14-blue)](https://doi.org/10.1007/978-3-030-58790-1_14)
+    - [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--030--58790--1__14-blue)](https://doi.org/10.1007/978-3-030-58790-1_14)
 - Yusuke Kubota, Koji Mineshima, Noritsugu Hayashi, Shinya Okano. (2020)  
     Development of a General-Purpose Categorial Grammar Treebank.  
     _Proceedings of 12th Language Resources and Evaluation Conference (LREC 2020)_, 5195 &ndash; 5201.

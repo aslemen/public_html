@@ -46,7 +46,7 @@ weight: 200
   Towards a unified, semantically-calculable and antilexicalistic analysis of various anaphoric expressions using “stacked” continuations.  
   _New Frontiers in Artificial Intelligence JSAI-isAI 2019 Workshops Yokohama, Japan, November 10–12, 2019, Revised Selected Papers_,
   214 &ndash; 230. Springer.
-    - [![DOI](https://img.shields.io/badge/DOI-0.1007%2F978--3--030--58790--1__14-blue)](https://doi.org/10.1007/978-3-030-58790-1_14)
+    - [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--030--58790--1__14-blue)](https://doi.org/10.1007/978-3-030-58790-1_14)
 - Yusuke Kubota, Koji Mineshima, **Noritsugu Hayashi**, and Shinya Okano. (2020)  
   Development of a general-purpose Categorial Grammar treebank.  
   _Proceedings of the 12th Language Resources and Evaluation Conference (LREC 2020)_, 5195 &ndash; 5201.
