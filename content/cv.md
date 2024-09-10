@@ -26,7 +26,7 @@ weight: 200
 - (Apr 2012 &ndash; Mar 2016)
   Language Sciences Course, College of Arts and Sciences, the University of Tokyo, Komaba.
   - BA thesis: Minimality effects in discourse: An SDRT analysis of the anaphoric expression _zibun_ and _the zero pronoun_ in Japanese
-- (Apr 2016 &ndash; )
+- (Apr 2016 &ndash; Sep 2024)
   [Department of Language and Information Sciences](http://gamp.c.u-tokyo.ac.jp/),
   Graduate School of Arts and Sciences, the University of Tokyo, Komaba.
   - MA thesis (2018): Lexical economy in Minimalist Grammar
