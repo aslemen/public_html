@@ -67,6 +67,10 @@ weight: 200
     - [PDF (ja)](https://www.jgg.jp/pluginfile.php/133/mod_book/chapter/30/SrJGG-135.pdf)
 
 ### Presentations 
+- Yoshiki Mori, Yehor Duma, Nori Hayashi, Mizuho Miyata, Uta Itakura (Jun 2024)  
+  Linguistische Textanalyze zur ukrainischen Orangen Revolution (mit Augenmerk auf prominent politische Akteure).  
+  [Internationale Konferenz an der Seoul National University in Zusammenarbeit mit der Gesellschat für interkulturelle Germanistik (SUN-GiG)](http://gig.snu.ac.kr/).
+  Seoul National University.
 - {{< work_selected >}}
   Noritsugu Hayashi (Nov 2023)  
   Additivity in Attention Semantics.  
