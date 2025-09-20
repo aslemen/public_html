@@ -66,6 +66,9 @@ weight: 200
     - [PDF](https://www.jgg.jp/pluginfile.php/133/mod_book/chapter/30/SrJGG-135.pdf)
 
 ### 口頭発表
+- Yoshiki Mori, Yehor Duma, Nori Hayashi, Uta Itakura (2025/07)  
+  Das Ukraine-Bild in Deutschland und Japan.  
+  V39.13, 15\. IVG-Kongress, Universität Graz.
 - Yoshiki Mori, Yehor Duma, Nori Hayashi, Mizuho Miyata, Uta Itakura (2024/06)  
   Linguistische Textanalyze zur ukrainischen Orangen Revolution (mit Augenmerk auf prominent politische Akteure).  
   [Internationale Konferenz an der Seoul National University in Zusammenarbeit mit der Gesellschat für interkulturelle Germanistik (SUN-GiG)](http://gig.snu.ac.kr/).

@@ -66,11 +66,16 @@ weight: 200
   Japanische Gesellschaft für Germanistik research series 135, 54 &ndash; 79．
     - [PDF (ja)](https://www.jgg.jp/pluginfile.php/133/mod_book/chapter/30/SrJGG-135.pdf)
 
-### Presentations 
+### Presentations
+- Yoshiki Mori, Yehor Duma, Nori Hayashi, Uta Itakura (Jul 2025)  
+  Das Ukraine-Bild in Deutschland und Japan.  
+  V39.13, 15\. IVG-Kongress, Universität Graz.
+<!-- GAKT 9 -->
 - Yoshiki Mori, Yehor Duma, Nori Hayashi, Mizuho Miyata, Uta Itakura (Jun 2024)  
   Linguistische Textanalyze zur ukrainischen Orangen Revolution (mit Augenmerk auf prominent politische Akteure).  
   [Internationale Konferenz an der Seoul National University in Zusammenarbeit mit der Gesellschat für interkulturelle Germanistik (SUN-GiG)](http://gig.snu.ac.kr/).
   Seoul National University.
+<!-- RED24 / GAKT8 -->
 - {{< work_selected >}}
   Noritsugu Hayashi (Nov 2023)  
   Additivity in Attention Semantics.  
