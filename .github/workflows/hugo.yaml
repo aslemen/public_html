@@ -60,8 +60,9 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --destination "${{ env.OUTPUT_DIR }}"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
         with:
+          name: public_html-${{ matrix.runs-on }}
           path: "${{ env.OUTPUT_DIR }}"
 
   # Deployment job
@@ -74,4 +75,6 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: public_html-${{ matrix.runs-on }}
